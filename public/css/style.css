@@ -1,0 +1,32 @@
+*{
+    font-family: 'poppins';
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 75vh;
+}
+
+.navbar{
+    background-color: #F27F0C;
+}
+
+.navbar-brand{
+    color: #fff;
+}
+.nav-link{
+    color: #fff;
+    font-size: 12px;
+    margin-left: 15px;
+}
+
+.gambarSekolah{
+    background-size: cover;
+    background-attachment: fixed;
+
+
+}
+
+

@@ -4,7 +4,7 @@
     @include('Component.navbar')
     <div class="wrapper">
       <div class="container main">
-        <div>
+        <div class="fullscreen-image">
           background 26
           <img class="gambarSekolah" src="img/school.jpg" alt="sekolah">
           <h1> Kontol </h1>

@@ -5,7 +5,7 @@
     <div class="wrapper">
       <div class="container main">
         <div>
-          background
+          background 26
           <img class="gambarSekolah" src="img/school.jpg" alt="sekolah">
           <h1> Kontol </h1>
         </div>

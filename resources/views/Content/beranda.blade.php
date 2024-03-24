@@ -7,6 +7,7 @@
         <div>
           background
           <img class="gambarSekolah" src="img/school.jpg" alt="sekolah">
+          <h1> Kontol </h1>
         </div>
       </div>
     </div>
